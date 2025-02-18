@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bishal das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal das" height="30" width="40" /></a>
 <a href="https://instagram.com/bishaldas1138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishaldas1138" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mns gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mns gaming" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MNSGAMINGmns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mns gaming" height="30" width="40" /></a>
 <a href="https://discord.gg/mnsgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mnsgaming" height="30" width="40" /></a>
 </p>
 
