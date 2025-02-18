@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bishal Das</h1>
+**<h1 align="center">Hi 👋, I'm Bishal Das</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-cs&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-cs" /> </p>
@@ -21,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal-cs&show_icons=true&locale=en&layout=compact" alt="bishal-cs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishal-cs&show_icons=true&locale=en" alt="bishal-cs" /></p>
+**
