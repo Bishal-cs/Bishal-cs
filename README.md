@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bishal das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bishal-das-ba5134308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bishal-das-ba5134308/" height="30" width="40" /></a>
 <a href="https://fb.com/@bishal das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@bishal das" height="30" width="40" /></a>
 <a href="https://instagram.com/bishaldas1138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishaldas1138" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@mnsgamingmns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mnsgamingmns" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/bishal-cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bishal-cs/" height="30" width="40" /></a>
-<a href="https://discord.gg/918875154539495456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="918875154539495456" height="30" width="40" /></a>
+<a href="https://discord.gg/mnsgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mnsgaming" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
