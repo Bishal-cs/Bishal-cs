@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bishaldas1k@gmail.com**
 
-- ⚡ Fun fact **I Think I am Boring**
+- ⚡ Fun fact **I Think I am Boring!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
