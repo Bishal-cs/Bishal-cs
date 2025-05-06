@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-cs" alt="bishal-cs" /></a> </p>
 
-- 🌱 I’m currently learning **NumPy, Pandas, PyTorch**
+- 🌱 I’m currently learning **Pandas, PyTorch**
 
 - 🤝 I’m looking for help with **AI Agent**
 
 - 📫 How to reach me **bishaldas1k@gmail.com**
 
-- ⚡ Fun fact **I Think I am Boring!!**
+- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
