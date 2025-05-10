@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-cs" alt="bishal-cs" /></a> </p>
 
-- 🌱 I’m currently learning **Pandas, PyTorch**
+- 🌱 I’m currently learning **Pandas, PyTorch, Langchain**
 
-- 🤝 I’m looking for help with **AI Agent**
+- 🤝 I’m looking for help with **A Highly Advance AI Agent**
+
+- 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **bishaldas1k@gmail.com**
 
@@ -23,6 +25,7 @@
 <a href="https://www.youtube.com/c/@mnsgamingmns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mnsgamingmns" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bishaldas1152006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishaldas1152006" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bishal-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishal-cs" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bishaldasdte5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bishaldasdte5" height="30" width="40" /></a>
 <a href="https://discord.gg/mnsgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mnsgaming" height="30" width="40" /></a>
 </p>
 
