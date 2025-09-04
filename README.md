@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Das</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-cs&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-cs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-cs&label=Profile%20views&color=880eb4&style=plastic" alt="bishal-cs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-cs" alt="bishal-cs" /></a> </p>
 
